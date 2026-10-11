@@ -88,4 +88,4 @@ The report is generated from actual notebook metrics. Do not publish fabricated 
 
 ## Licence
 
-Code in this repository may be licensed separately (for example, MIT); that does not change the licences of datasets or model weights used by the project. Check each dependency's terms.
+
