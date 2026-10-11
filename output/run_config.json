@@ -1,0 +1,9 @@
+{
+  "dataset": "BEIR SciFact",
+  "max_queries": 200,
+  "evaluated_queries": 200,
+  "top_k": 10,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "reranker_enabled": true,
+  "seed": 42
+}
