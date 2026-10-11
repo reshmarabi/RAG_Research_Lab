@@ -1,6 +1,6 @@
 # RAG Research Lab
 
-A free-first, reproducible benchmark comparing BM25, dense retrieval, hybrid Reciprocal Rank Fusion (RRF), and optional cross-encoder reranking on BEIR SciFact.
+A reproducible benchmark comparing BM25, dense retrieval, hybrid Reciprocal Rank Fusion (RRF), and optional cross-encoder reranking on BEIR SciFact.
 
 ## Research question
 
