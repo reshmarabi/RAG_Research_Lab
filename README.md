@@ -8,7 +8,7 @@ Which retrieval configuration best balances retrieval quality and latency for sc
 
 ## Run in Google Colab
 
-1. Upload/open `RAG_Research_Lab.ipynb` in Colab.
+1. Upload/open `RAG_LAB1.ipynb` in Colab.
 2. Run cells top-to-bottom.
 3. Start with `MAX_QUERIES = 200`; use `None` to evaluate all queries in the test split.
 4. The notebook downloads the official BEIR SciFact dataset and saves metrics, predictions, failure cases, a sample corpus and a Markdown report under `outputs/`.
@@ -27,7 +27,7 @@ source .venv/bin/activate
 # .venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
-jupyter notebook RAG_Research_Lab.ipynb
+jupyter notebook RAG_LAB1.ipynb
 ```
 
 Then run all notebook cells. A GPU is optional. Dense embedding and cross-encoder reranking will be slower on CPU.
